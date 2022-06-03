@@ -1,10 +1,10 @@
 {
-  "name": "react-ts-boilerplate",
+  "name": "equalizer-landing-page",
   "author": {
     "name": "Thiago Santos",
     "email": "tssantos@gmail.com"
   },
-  "homepage": "https://tssantos.github.io/react-ts-boilerplate/",
+  "homepage": "https://tssantos.github.io/equalizer-landing-page/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
